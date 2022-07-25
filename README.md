@@ -3,7 +3,9 @@
 # I am catasaurus.
 
 ➵ I'm proficient with Python
+
 ➵ I have been coding since 2020
+
 ➵ I have a blog at https://dev.to/catasaurus that I hope to start working on again
 
 - 🔭 I’m currently working on several projects
