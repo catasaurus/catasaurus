@@ -1,8 +1,8 @@
-### Hi there 👋
-
+# Hello
 # I am catasaurus.
+# 😼
 
-➵ I'm proficient with Python
+➵ I'm proficient with Python. I've done some stuff with Javascript, Go, and Rust. By done stuff I mean I learned some of the basic syntax :)
 
 ➵ I have been coding since 2020
 
@@ -14,3 +14,10 @@
 - 📫 How to reach me: you can email me at catasaurus.catnip@gmail.com or DM me on Discord at catasaurus#9764
 - 😄 Pronouns: He/His
 
+I have some repos on Gitlab that I am currently working on that I have not pushed to Github yet.
+
+- Here is my Gitlab profile: https://gitlab.com/catasaurus
+- My Stackoverflow profile: https://stackoverflow.com/users/18022759/catasaurus
+- My blog: https://dev.to/catasaurus
+
+I am currently working on a model that paraphrases text for my internship a TangibleAI: https://gitlab.com/tangibleai/paraphraser
