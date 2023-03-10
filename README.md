@@ -2,7 +2,7 @@
 # I am catasaurus.
 # 😼
 
-➵ I'm proficient with Python. I've done some stuff with Javascript, Go, and Rust. By done stuff I mean I learned some of the basic syntax :)
+➵ I'm proficient with Python, C/C++, and Javascript/.
 
 ➵ I have been coding since 2020
 
@@ -19,5 +19,3 @@ I have some repos on Gitlab that I am currently working on that I have not pushe
 - Here is my Gitlab profile: https://gitlab.com/catasaurus
 - My Stackoverflow profile: https://stackoverflow.com/users/18022759/catasaurus
 - My blog: https://dev.to/catasaurus
-
-I am currently working on a model that paraphrases text for my internship a TangibleAI: https://gitlab.com/tangibleai/paraphraser
