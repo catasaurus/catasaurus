@@ -1,21 +1,38 @@
-# Hello
-# I am catasaurus.
-# 😼
+# Hi! I'm catasaurus
 
-➵ I'm proficient with Python, C/C++, and Javascript/.
+### Full Stack and Machine Learning Engineer open to freelance and contracting work
 
-➵ I have been coding since 2020
+**How to reach me**: you can email me at catasaurus.catnip@gmail.com, DM me on Discord at catasaurus#9764, reach out to me on twitter @catasaurus_cat or LinkedIn: 
 
-➵ I have a blog at https://dev.to/catasaurus that I hope to start working on again
+#### Languages:
+ - Python
+ - Javascript
+ - Typescript
+ - C
+ - C++
+ - Working on C#
+ 
+ #### Backend Web technologies:
+ - Django
+ - Express.js
+ - trpc
+ - MongoDB
 
-- 🔭 I’m currently working on several projects
-- 🌱 I’m currently learning about the vast world of AI/ML
-- 👯 I’m looking to collaborate on anything
-- 📫 How to reach me: you can email me at catasaurus.catnip@gmail.com or DM me on Discord at catasaurus#9764
-- 😄 Pronouns: He/His
+#### Machine Learning technologies:
+- Overall solid understanding of AI
+- PyTorch
+- Tensorflow
+- Keras
+- TinyGrad
+- Numpy
+- Huggingface
+- Various other libraries and frameworks
 
 I have some repos on Gitlab that I am currently working on that I have not pushed to Github yet.
 
+#### Socials:
 - Here is my Gitlab profile: https://gitlab.com/catasaurus
 - My Stackoverflow profile: https://stackoverflow.com/users/18022759/catasaurus
 - My blog: https://dev.to/catasaurus
+- Twitter: @catasaurus_cat
+- LinkedIn: https://www.linkedin.com/in/sebastian-larson-13b5b9269/
