@@ -5,11 +5,11 @@
 **How to reach me**: you can email me at catasaurus.catnip@gmail.com, DM me on Discord at catasaurus#9764, reach out to me on twitter @catasaurus_cat or LinkedIn: 
 
 #### Languages:
- - Python
- - Javascript
- - Typescript
- - C
- - C++
+ - Python (expert)
+ - Javascript (proficient)
+ - Typescript (proficient)
+ - C (intermediate)
+ - C++ (intermediate)
  - Working on C#
  
  #### Backend Web technologies:
