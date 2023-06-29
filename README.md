@@ -1,22 +1,22 @@
-# Hi! I'm catasaurus
+# Hi! I'm Sebastian (I go by catasaurus online) (13 years old)
 
 ### Full Stack and Machine Learning Engineer open to freelance and contracting work
 
-**How to reach me**: you can email me at catasaurus.catnip@gmail.com, DM me on Discord at catasaurus#9764, reach out to me on twitter @catasaurus_cat or LinkedIn: 
+**How to reach me**: you can email me at sebastianlarson22@gmail.com, DM me on Discord at catasaurus#9764, reach out to me on twitter @catasaurus_cat or LinkedIn (https://www.linkedin.com/in/sebastian-larson-13b5b9269/): 
 
 #### Languages:
  - Python (expert)
  - Javascript (proficient)
  - Typescript (proficient)
- - C (intermediate)
- - C++ (intermediate)
- - Working on C#
  
  #### Backend Web technologies:
  - Django
  - Express.js
- - trpc
  - MongoDB
+
+#### Frontend Web technologies:
+- React
+- Tailwind
 
 #### Machine Learning technologies:
 - Overall solid understanding of AI
@@ -28,11 +28,11 @@
 - Huggingface
 - Various other libraries and frameworks
 
-I have some repos on Gitlab that I am currently working on that I have not pushed to Github yet.
+I have some repos on Gitlab that I am working on that I have not pushed to GitHub yet.
 
 #### Socials:
-- Here is my Gitlab profile: https://gitlab.com/catasaurus
-- My Stackoverflow profile: https://stackoverflow.com/users/18022759/catasaurus
-- My blog: https://dev.to/catasaurus
+- Gitlab: https://gitlab.com/catasaurus
+- Stackoverflow: https://stackoverflow.com/users/18022759/catasaurus
 - Twitter: @catasaurus_cat
 - LinkedIn: https://www.linkedin.com/in/sebastian-larson-13b5b9269/
+- Blog: https://dev.to/catasaurus
