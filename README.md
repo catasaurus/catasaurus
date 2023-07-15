@@ -2,7 +2,7 @@
 
 ### Full Stack and Machine Learning Engineer open to freelance and contracting work
 
-**How to reach me**: you can email me at sebastianlarson22@gmail.com, DM me on Discord at catasaurus#9764, reach out to me on twitter @catasaurus_cat or LinkedIn (https://www.linkedin.com/in/sebastian-larson-13b5b9269/): 
+**How to reach me**: you can email me at sebastianlarson22@gmail.com, DM me on Discord at catasaurus#9764 (now sebastian.larson), reach out to me on twitter @catasaurus_cat or LinkedIn (https://www.linkedin.com/in/sebastian-larson-13b5b9269/): 
 
 #### Languages:
  - Python (expert)
@@ -35,4 +35,3 @@ I have some repos on Gitlab that I am working on that I have not pushed to GitHu
 - Stackoverflow: https://stackoverflow.com/users/18022759/catasaurus
 - Twitter: @catasaurus_cat
 - LinkedIn: https://www.linkedin.com/in/sebastian-larson-13b5b9269/
-- Blog: https://dev.to/catasaurus
