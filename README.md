@@ -2,12 +2,12 @@
 
 ### Full Stack and Machine Learning Engineer open to freelance and contracting work
 
-**How to reach me**: you can email me at sebastianlarson22@gmail.com, DM me on Discord at catasaurus#9764 (now sebastian.larson), reach out to me on twitter @catasaurus_cat or LinkedIn (https://www.linkedin.com/in/sebastian-larson-13b5b9269/): 
+**How to reach me**: you can email me at sebastianlarson22@gmail.com, DM me on Discord at catasaurus#9764 (now sebastian.larson), reach out to me on Twitter @catasaurus_cat or LinkedIn (https://www.linkedin.com/in/sebastian-larson-13b5b9269/): 
 
 #### Languages:
- - Python (expert)
- - Javascript (proficient)
- - Typescript (proficient)
+ - Python
+ - Javascript
+ - Typescript
  
  #### Backend Web technologies:
  - Django
