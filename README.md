@@ -1,4 +1,5 @@
 <p>
+<samp>
 Hi! I'm Sebastian (I go by catasaurus online) (13 y/o)
 
 full stack and ml dev open to freelance
@@ -19,4 +20,5 @@ Socials:
 - Stackoverflow: https://stackoverflow.com/users/18022759/catasaurus
 - Twitter: @catasaurus_cat
 - LinkedIn: https://www.linkedin.com/in/sebastian-larson-13b5b9269/
+</samp>
 </p>
