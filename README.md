@@ -8,12 +8,14 @@ Languages:
 Python
 Javascript
 Typescript
+
 Web:
 Django
 Express.js
 MongoDB
 React
 Tailwind
+
 Machine learning:
 PyTorch
 Tensorflow
