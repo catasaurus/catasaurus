@@ -6,7 +6,9 @@ full stack and ml dev open to freelance
 
 Languages:
 Python
+
 Javascript
+
 Typescript
 
 Web:
