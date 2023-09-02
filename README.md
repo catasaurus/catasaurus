@@ -8,7 +8,7 @@ full stack and ml dev open to freelance
 
 Languages: Python, Javascript, Typescript
 
-Web: Django, Express.js, Next.js, Prisma, MongoDB, React, Tailwind
+Web: Django, Express.js, Next.js, TRPC, Prisma, MongoDB, React, Tailwind
 
 Machine learning: PyTorch, Tensorflow, Keras, TinyGrad, Numpy, Huggingface
 Various other libraries and frameworks
