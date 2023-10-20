@@ -18,7 +18,6 @@ I have some repos on Gitlab that I am working on that I have not pushed to GitHu
 Socials:
 - Gitlab: https://gitlab.com/catasaurus
 - Stackoverflow: https://stackoverflow.com/users/18022759/catasaurus
-- Twitter: @catasaurus_cat
 - LinkedIn: https://www.linkedin.com/in/sebastian-larson-13b5b9269/
 </samp>
 </p>
