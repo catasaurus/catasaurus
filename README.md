@@ -1,8 +1,6 @@
 <p>
 <samp>
-Hi! I'm Sebastian (I go by catasaurus online) (13 y/o)
-
-full stack and ml dev open to freelance or intern
+Hi! I'm Sebastian (13 y/o)
 
 **How to reach me**: sebastianlarson22@gmail.com
 
