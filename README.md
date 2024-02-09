@@ -1,6 +1,6 @@
 <p>
 <samp>
-Hi! I'm Sebastian (13 y/o)
+Hi, I'm Sebastian (13 y/o)
 
 **How to reach me**: sebastianlarson22@gmail.com
 
